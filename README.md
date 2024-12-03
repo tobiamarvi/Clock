@@ -1,3 +1,1 @@
-This is mainly for practice.
-
-Clock application. 
+# Real-time Clock Application
